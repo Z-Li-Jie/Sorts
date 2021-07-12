@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\studys_c++\xm\排序\bucket_sort\bucket_sort\main.cpp(28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\studys_c++\xm\排序\bucket_sort\bucket_sort\main.cpp(35): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+  bucket_sort.vcxproj -> D:\Studys_C++\XM\排序\bucket_sort\x64\Debug\bucket_sort.exe
